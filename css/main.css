@@ -537,6 +537,20 @@ body {
     margin: auto;
 }
 
+.bgi {
+    position: relative;
+    z-index: -100;
+    width: 600px;
+    height: 509px;
+	opacity:0;
+    position: absolute;
+    top:0;
+    right: 5%;
+    bottom: 0;
+    left:auto;
+    margin: auto;
+}
+
 .bg svg {
     width: 100%;
     height: auto;
