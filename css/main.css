@@ -1837,7 +1837,7 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
     .logo img {
         display: block;
         margin: 5px 15px;
-        width: auto;
+        width: 64px;
         height: auto;
     }
     .logo > img:first-child {
